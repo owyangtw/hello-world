@@ -1,2 +1,3 @@
 # hello-world
 My first attempt to github, lol.
+2021, i began my coding journey, I learn python by myself, through Udemy, Freecodecamp, Coursera ... 
